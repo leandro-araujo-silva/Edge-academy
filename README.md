@@ -3,7 +3,7 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="_imagens/download.png" alt="Foto do site" height="350">
+  <img src="_imagens/download.png" alt="Foto do site" height="400">
 </div>
 
 ---
