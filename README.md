@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-weight: bold;">Plataforma de revenda de veículos</h1>
+<h1 style="text-align: center; font-weight: bold;">Projeto de análise de dados - Edge academy</h1>
 
 ## Demonstração 📸
 
