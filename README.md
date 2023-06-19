@@ -20,6 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Numpy]
 - [Pandas]
 - [Matplotlib]
+- [ChatGPT]
 ---
 
 <img src="https://github.com/leandro-araujo-silva/Proffy-FullStack/raw/master/github/linkedin.png" alt="linkedin" height="50">
